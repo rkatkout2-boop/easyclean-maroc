@@ -52,8 +52,7 @@ Le site contient encore des **valeurs de démonstration**. Elles doivent être v
 
 | Élément | Valeur actuelle | Fichiers concernés |
 |---|---|---|
-| Téléphone fixe | `+212 5 00 00 00 00` | `index.html`, `mentions-legales.html`, `confidentialite.html` |
-| WhatsApp | `+212 6 61 28 58 68` (fourni par le client) | `index.html`, `assets/js/main.js`, pages légales |
+| Téléphone / WhatsApp | `+212 6 61 28 58 68` (fourni par le client) | `index.html`, `assets/js/main.js`, pages légales |
 | E-mail | `contact@easycleanmorocco.ma` | toutes les pages |
 | Adresse | `Casablanca, Maroc` | `index.html`, pages légales |
 | Réseaux sociaux | liens `#` | `index.html` (carte contact) |
@@ -78,7 +77,6 @@ Format attendu : indicatif pays + numéro, sans `+`, sans espaces (ex. `21266128
 
 Utiliser une recherche globale dans les fichiers HTML :
 
-- `+212 5 00 00 00 00`
 - `contact@easycleanmorocco.ma`
 - `Casablanca, Maroc`
 
